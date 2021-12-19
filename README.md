@@ -16,7 +16,7 @@
 
 В качестве тестовых данных использовались номера карт с сайта https://www.freeformatter.com/credit-card-number-generator-validator.html
 * CreditCard 4254380532485266
-* moneytransfer с ожидаемым результатом 500000000
+* CreditCard 4556779549958584
 * finalbalance с ожидаемым результатом 2500000000
 
 Тестирование производилось в следующем окружении:
